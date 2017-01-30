@@ -1,0 +1,95 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+@charset "utf-8";
+
+@font-face {
+    font-family: BlackChancery;
+    src: url('/assets/fonts/BLKCHCRY.TTF');
+}
+// Our variables
+$base-font-family: "BlackChancery", BlackChancery, Arial, sans-serif;
+$base-font-size:   18px;
+$base-font-weight: 200;
+$small-font-size:  $base-font-size * 0.875;
+$base-line-height: 1.5;
+
+$spacing-unit:     20px;
+
+$text-color:       #111;
+$background-color: #fdfdfd;
+$brand-color:      #2a7ae2;
+
+$grey-color:       #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark:  darken($grey-color, 25%);
+
+// Width of the content area
+$content-width:    800px;
+
+$on-palm:          600px;
+$on-laptop:        800px;
+
+
+@media (max-width: 600px) {
+  .site-logo {
+    display: none;
+  }
+}
+
+.wrapper {
+}
+.site-header {
+  background: linear-gradient(lighten(orange, 30%),white);
+}
+.post-content {
+}
+.post-list-item {
+  padding: 1em;
+  background-color: lighten(orange, 40%);
+  box-shadow: 4px 4px #ddd;
+}
+.img-about {
+  box-shadow: 4px 4px #ddd;
+}
+.page-link {
+  padding: 20px;
+}
+.topheader {
+  max-width: 800px;
+  padding-left: 30px;
+  padding-right: 30px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  margin-bottom: 40px;
+}
+.navigation {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.site-title {
+  font-family: BlackChancery;
+
+}
+.site-header {
+  align-content: center;
+}
+.site-footer {
+   font-family: BlackChancery;
+   position:fixed;
+   left:0px;
+   bottom:0px;
+   height:60px;
+   width:100%;
+   background-color: white;
+}
+@import "minima";
