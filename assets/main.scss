@@ -3,12 +3,8 @@
 ---
 @charset "utf-8";
 
-@font-face {
-    font-family: BlackChancery;
-    src: url('/assets/fonts/BLKCHCRY.TTF');
-}
 // Our variables
-$base-font-family: "BlackChancery", BlackChancery, Arial, sans-serif;
+$base-font-family:  "Helvetica Neue", Helvetica, Arial, sans-serif;
 $base-font-size:   18px;
 $base-font-weight: 200;
 $small-font-size:  $base-font-size * 0.875;
@@ -76,10 +72,6 @@ $on-laptop:        800px;
   justify-content: flex-end;
 }
 
-.site-title {
-  font-family: BlackChancery;
-
-}
 .site-header {
   align-content: center;
 }
