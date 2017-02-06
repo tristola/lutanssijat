@@ -16,8 +16,7 @@ käyntiin paritanssin alkeiskurssi torstai-iltaisin sekä keskitason
 tunnit tiistaisin. Yksin tanssittavia tunteja ovat Tanssiksi-tunnit
 tiistaisin ja keskiviikkoisin. Lisäksi järjestetään sekä alkeis- että jatkotanssijoille erilaisia
 viikonlopputeemakursseja ja tehdään tanssiretkiä. Nettisivut
-ovat vielä työn alla, mutta Facebookissa sivuilta Länsi-Uu-
-denmaan Tanssijat ry löytyy jo tulevan kauden ohjelma.
+ovat vielä työn alla, mutta Facebookissa sivuilta Länsi-Uudenmaan Tanssijat ry löytyy jo tulevan kauden ohjelma.
 
 Tutustu mukavaan harrastukseen ja tule ennakkoluulottomasti paikalle. Jokainen oppii
 tanssimaan. Kuuluuu Länsi-Uudenmaan Tanssijoiden viesti.
