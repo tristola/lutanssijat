@@ -11,12 +11,17 @@ Sen jäsenet haluavat tuoda kaikenikäisille harrastajille iloa
 elämään tanssin kautta niin paritanssien kuin yksintanssienkin
 muodossa.
 
+# Jäsenedut
+Jäsenkortilla Unelmamekot, Keskuskatu 18-20, Riihimäki -10 %
+Omena-apteekit Virkkala ja Siuntio -10% ei lääkkeet
+Esakallio Liput -2 euroa, lippuja voi lunastaa kaikilla kursseilla keväällä
+[Jäsenedut tarkemmin](http://www.susel.fi/j%C3%A4senetupaikat)
+
 Seuran ohjelmaa lisätään pikkuhiljaa. Ensimmäisenä lähtevät
 käyntiin paritanssin alkeiskurssi torstai-iltaisin sekä keskitason
 tunnit tiistaisin. Yksin tanssittavia tunteja ovat Tanssiksi-tunnit
 tiistaisin ja keskiviikkoisin. Lisäksi järjestetään sekä alkeis- että jatkotanssijoille erilaisia
-viikonlopputeemakursseja ja tehdään tanssiretkiä. Nettisivut
-ovat vielä työn alla, mutta Facebookissa sivuilta Länsi-Uudenmaan Tanssijat ry löytyy jo tulevan kauden ohjelma.
+viikonlopputeemakursseja ja tehdään tanssiretkiä.Facebookissa sivuilta Länsi-Uudenmaan Tanssijat ry löytyy jo tulevan kauden ohjelma.
 
 Tutustu mukavaan harrastukseen ja tule ennakkoluulottomasti paikalle. Jokainen oppii
 tanssimaan. Kuuluuu Länsi-Uudenmaan Tanssijoiden viesti.
