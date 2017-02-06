@@ -39,7 +39,12 @@ $on-laptop:        800px;
   background: linear-gradient(lighten(orange, 30%),white);
 }
 .post-content {
+  padding-bottom: 80px;
 }
+.post-list {
+  margin-bottom: 80px;
+}
+
 .post-list-item {
   padding: 1em;
   background-color: lighten(orange, 40%);

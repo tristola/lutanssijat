@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Tunnetta tangoon -teemakurssi"
-date:   2017-01-17 07:09:55 +0200
+date:   2017-01-20 07:09:55 +0200
 categories: tango latin
 ---
 # Linjoja ja taivutuksia kauniisti ja varmasti Haetko mausteita tangoon ja muihin seuratansseihin?
