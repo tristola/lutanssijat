@@ -2,7 +2,7 @@ title: Länsi-Uudenmaan Tanssijat ry
 email: lu.tanssijat@gmail.com
 description: > # Länsi-Uudenmaan tanssijat ry on lavatanssijoiden seura.
 baseurl: ""
-url: "http://lutanssijat.fi" 
+url: "http://lutanssijat.fi"
 facebook_username: Länsi-Uudenmaan-Tanssijat-Ry-945136225616395
 twitter_username:
 github_username:
@@ -12,6 +12,7 @@ markdown: kramdown
 theme: minima
 gems:
   - jekyll-feed
+  - jekyll-seo-tag
 exclude:
   - Gemfile
   - Gemfile.lock
